@@ -1,5 +1,5 @@
 {
-  "name": "getpipein",
+  "name": "get-pipe-in",
   "version": "0.0.1",
   "description": "Get data from other programs by shell pipe with just one line of code. ",
   "main": "index.js",
